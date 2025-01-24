@@ -36,7 +36,7 @@ Here’s what I’m working with:
 
 ### 📬 **Let’s Collaborate!**  
 - 🌐 **LinkedIn**: [My account](https://www.linkedin.com/in/galib-mammadli-7884b11b2/)  
-- ✉️ **Email**: [My email](qalib.mmmdli@gmail.com)
+- ✉️ **Email**: [My email](mailto:qalib.mmmdli@gmail.com)
 - 🔗 **LinkimAz**: [My account](https://linkim.az/galibm)
 - 💡 Have a cool idea? Let’s make it happen!  
 
