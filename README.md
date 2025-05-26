@@ -9,8 +9,8 @@ Hi there! I’m **Galib Mammadli**, a passionate **IT Specialist** turning dream
 
 ### 💻 **My Tech Toolbox** 🛠️  
 Here’s what I’m working with:  
-- **Frontend Magic:** 🎨 ReactJS, HTML, CSS  
-- **Backend Power:** 🧩 Node.js, Express.js  
+- **Frontend Magic:** 🎨 ReactJs, HTML, CSS, TypeScript, NextJs
+- **Backend Power:** 🧩 NodeJs, ExpressJs  
 - **Databases:** 🗂️ MySQL, MongoDB  
 - **Extra Skills:** 🐧 Linux, 🌐 Nginx, 🛡️ IT Troubleshooting  
 
