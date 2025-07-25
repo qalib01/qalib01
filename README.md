@@ -20,7 +20,7 @@ Here’s what I’m working with:
 
 ### 🌟 **Projects I’m Building & Loving**  
 - **[Linkim](https://linkim.az)**: Share all your personal and social links in one place! 🔗
-  **[Wedding](https://wedding.mammadli.info)**: A platform for wedding organizing. 🌸 
+- **[Wedding](https://wedding.mammadli.info)**: A platform for wedding organizing. 🤵 
 - **[Sporter](https://sporter.az)**: Sports news delivered with speed and precision. ⚽  
 - **[AzMachinery](https://azmachinery.az)**: CNC machine listings made simple (Subgroup of CncMachinery). 🛠️  
 - **[SpAgro](https://spagro.az)**: Agro machine listings made simple. 🛠️  
