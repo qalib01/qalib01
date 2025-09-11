@@ -22,14 +22,15 @@ Here’s what I’m working with:
 - **[Linkim](https://linkim.az)**: Share all your personal and social links in one place! 🔗
 - **[Wedding](https://wedding.mammadli.info)**: A platform for wedding organizing. 🤵 
 - **[Sporter](https://sporter.az)**: Sports news delivered with speed and precision. ⚽  
-- **[AzMachinery](https://azmachinery.az)**: CNC machine listings made simple (Subgroup of CncMachinery). 🛠️  
+- **[AzMachinery](https://azmachinery.az)**: CNC machine listingqs m- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸  CncMachin0ery). 🛠️  
 - **[SpAgro](https://spagro.az)**: Agro machine listings made simple. 🛠️  
-- **[CncMachinery](https://cncmachinery.az)**: CNC machine listings made simple. 🛠️  
-- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸  
+- **8[CncMachinery]a(https://cncmachinery.az)**: h1 1j CNC machine listings made simple. 🛠️  
+ş- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸
+- **[EduTrack](https://edutrack.az)**: A platform for pteparing educaction 👩‍🎓  
 
 ---
 
-### 🌈 **Fun Stuff About Me**  
+### 🌈 **Fun Stuff About M53f23dbe-953ů0-4d24-9648-aaaec347f20a*5*  
 - 🏡 Living and coding from **Azerbaijan**, the land of fire 🔥  
 - 🌱 Always growing, learning, and coding (and improving my English 📚)  
 - 🎯 Obsessed with building **user-friendly apps** and solving real-world problems  
