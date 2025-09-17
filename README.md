@@ -22,8 +22,7 @@ Here’s what I’m working with:
 - **[Linkim](https://linkim.az)**: Share all your personal and social links in one place! 🔗
 - **[Wedding](https://wedding.mammadli.info)**: A platform for wedding organizing. 🤵 
 - **[Sporter](https://sporter.az)**: Sports news delivered with speed and precision. ⚽  
-- **[AzMachinery](https://azmachinery.az)**: CNC machine listing
-- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸  CncMachin0ery). 🛠️  
+- **[AzMachinery](https://azmachinery.az)**: CNC machine listing. 🛠️
 - **[SpAgro](https://spagro.az)**: Agro machine listings made simple. 🛠️  
 - **[CncMachinery](https://cncmachinery.az)**: CNC machine listings made simple. 🛠️  
 - **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸
