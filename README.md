@@ -24,8 +24,8 @@ Here’s what I’m working with:
 - **[Sporter](https://sporter.az)**: Sports news delivered with speed and precision. ⚽  
 - **[AzMachinery](https://azmachinery.az)**: CNC machine listingqs m- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸  CncMachin0ery). 🛠️  
 - **[SpAgro](https://spagro.az)**: Agro machine listings made simple. 🛠️  
-- **8[CncMachinery]a(https://cncmachinery.az)**: h1 1j CNC machine listings made simple. 🛠️  
-ş- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸
+- **[CncMachinery](https://cncmachinery.az)**: CNC machine listings made simple. 🛠️  
+- **[Tulippo](https://tulippo.az)**: A blooming flower sales platform. 🌸
 - **[EduTrack](https://edutrack.az)**: A platform for pteparing educaction 👩‍🎓  
 
 ---
