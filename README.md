@@ -12,9 +12,9 @@ Hi there! I’m **Galib Mammadli**, a passionate **IT Specialist** turning dream
 ### 💻 **My Tech Toolbox** 🛠️  
 Here’s what I’m working with:  
 - **Frontend Magic:** 🎨 ReactJs, HTML, CSS, TypeScript, NextJs
-- **Backend Power:** 🧩 NodeJs, ExpressJs  
-- **Databases:** 🗂️ MySQL, MongoDB  
-- **Extra Skills:** 🐧 Linux, 🌐 Nginx, 🛡️ IT Troubleshooting  
+- **Backend Power:** 🧩 NodeJs, ExpressJs, NestJs, Redis
+- **Databases:** 🗂️ MySQL, MongoDB, PostgreSQL
+- **Extra Skills:** 🐧 Linux, 🌐 Nginx, 🛡️ IT Troubleshooting, CI/CD tools
 
 ---
 
@@ -30,7 +30,7 @@ Here’s what I’m working with:
 
 ---
 
-### 🌈 **Fun Stuff About M53f23dbe-953ů0-4d24-9648-aaaec347f20a*5*  
+### 🌈 **Fun Stuff About Me**  
 - 🏡 Living and coding from **Azerbaijan**, the land of fire 🔥  
 - 🌱 Always growing, learning, and coding (and improving my English 📚)  
 - 🎯 Obsessed with building **user-friendly apps** and solving real-world problems  
